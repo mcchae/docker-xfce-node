@@ -1,13 +1,13 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Exec=/usr/local/pycharm/bin/pycharm.sh
-Icon=/usr/local/pycharm/bin/pycharm.png
+Exec=/usr/local/webstorm/bin/webstorm.sh
+Icon=/usr/local/webstorm/bin/webstorm.png
 StartupNotify=true
 Terminal=false
 Categories=Utility;X-XFCE;X-Xfce-Toplevel;
 OnlyShowIn=XFCE;
-Name=PyCharm CE
-Comment=PyCharm Community Edition
+Name=WebStorm
+Comment=WebStorm IDE
 X-XFCE-Source=file:///usr/share/applications/xfce4-run.desktop
 Path=/root
